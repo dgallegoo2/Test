@@ -38,4 +38,5 @@ public class ChoucairAcademyStepDefinitions {
         OnStage.theActorInTheSpotlight().should(GivenWhenThen.seeThat(Answer.toThe(academyChoucairData.get(0).getStrCourse())));
     }
 
+
 }

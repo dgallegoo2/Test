@@ -1,4 +1,4 @@
-#Autor: Daniel Gallego
+#Autor: Daniel Estiven Gallego Orozco
   @stories
   Feature: Academy Choucair
     As a user, I want to learn how to automate in screenplay at the Choucair Academy with the automation course
